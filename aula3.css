@@ -1,0 +1,28 @@
+
+h1 {
+    color: brown;
+}
+
+h3 {
+    color: olive;
+}
+
+.verde {
+    color: green;
+}
+
+.fundo {
+    background: peru;
+}
+
+h3.fundo {
+    color: blue;
+}
+
+.fundo h3{
+    color: red;
+}
+
+#tit4 {
+    color: rgb(231, 228, 31);
+}
